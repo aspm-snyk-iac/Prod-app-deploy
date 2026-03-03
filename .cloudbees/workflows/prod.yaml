@@ -9,7 +9,7 @@ jobs:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: QA-env1
-          artifact-id: b30e6c64-2093-4565-af88-fb0f3d1a1411
+          artifact-id: c37604d9-6ec5-4091-a26b-e06073091416
           target-environment: qatest
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
